@@ -6,8 +6,8 @@
 
 <!---
 
-- 👋 Hi, I’m ANAS known as @czxanas
-- ✨ I’m a frontend developer, interested in web development & design
+- 👋 Hi, I’m ANAS known as @czxanas.
+- ✨ I’m a frontend developer, interested in web development & design.
 
 Ps. I used GitLab in the past (& still for some projects & work ), now Im with GitHub.
 
