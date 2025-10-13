@@ -23,7 +23,7 @@ I combine creativity and code to bring ideas to life — building interfaces tha
 | **Frameworks** | React.js, Next.js, Vue.js, Nuxt.js, Astro.js |
 | **Styling** | Tailwind CSS, SCSS, Styled Components |
 | **Creative Dev** | GSAP, Framer Motion |
-| **Design Tools** | Figma, Adobe XD, Photoshop |
+| **Design Tools** | Figma, Miro, Adobe XD, Photoshop |
 | **Version Control** | Git, GitHub, GitLab |
 | **Other** | Astro, Webflow |
 
